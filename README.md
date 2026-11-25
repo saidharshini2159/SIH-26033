@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Reference Number:
-## Name:
+# Date: 25-11-2026
+## Reference Number:26019085
+## Name: Sai Dharshini S
 
 ## Problem Title
 SIH 26033: Multiple intermediaries reduce farmers earnings and increase consumer prices.
@@ -26,27 +26,48 @@ Benefits:
 • Reduced supply chain inefficiencies.
 
 ## Proposed Solution
-Remove These Lines
-1. Detailed explanation of the proposed solution
-2. How it addresses the problem
-3. Innovation and uniqueness of the solution
+
+1.Pre-Order Pools: Customers book crops before harvest, ensuring farmers get guaranteed sales.
+2.Farmer-Owned Micro-Hubs: Farmers jointly manage storage, sorting and transportation to earn more profit.
+3.QR Price Transparency: QR codes show the complete price breakdown, ensuring fair pricing.
+4.AI Demand-Supply Engine: AI predicts demand, suggests crops and recommends fair prices.
+5.Adopt-a-Farm Subscription: Families subscribe to farms and receive fresh produce regularly, ensuring farmers' income.
 
 ## Technical Approach
-Remove These Lines
-1. Technologies to be used (e.g. programming languages, frameworks, hardware)
-2. Methodology and process for implementation <b>(Flow Charts/Images/ working prototype)</b>
+1.Pre-Order Pools: Create a website or app to book crops before harvest.
+2.Farmer-Owned Micro-Hubs: Use a system to manage crop storage and delivery.
+3.QR Price Transparency: Use QR codes to show crop details and prices.
+4.AI Demand-Supply Engine:*Use AI to predict demand and suggest fair prices.
+5.Adopt-a-Farm Subscription: Create an app where families can choose a farm and get vegetables every week.
+<img width="796" height="1096" alt="web flow chart sih" src="https://github.com/user-attachments/assets/b3952802-f76f-4bfc-affb-375058f56c27" />
+
 
 ## Feasibility and Viability
-Remove These Lines
-1. Analysis of the feasibility of the idea
-2. Potential challenges and risks
-3. Strategies for overcoming these challenges
+Feasibility
+1. Easy to create using an app or website.
+2. Farmers can easily use the system.
+3. QR codes and AI tools are available.
+4. Needs storage and transport.
+5. Can start in one village.
+
+Viability
+1. Farmers can earn more money.
+2. Customers get fresh vegetables at a fair price.
+3. Reduces middlemen.
+4. Saves food and time.
+5. Can expand to more villages and cities.
 
 ## Impact and Benefits
-Remove These Lines
-1. Potential impact on the target audience
-2. Benefits of the solution (social, economic, environmental, etc.)
+1. Farmers get more income.
+2. Customers get fresh products at low prices.
+3. Reduces the use of middlemen.
+4. Avoids food waste.
+5. Helps farmers sell their products easily.
+6. Builds trust between farmers and customers.
 
 ## Research and References
-Remove These Lines
-1. Details / Links of the reference and research work
+1. Studied problems faced by farmers in selling crops.
+2. Collected information about farmers and market prices.
+3. Researched online farming and selling platforms.
+4. Referred to government agriculture websites.
+5. Studied how AI and QR codes help farmers.
